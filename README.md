@@ -1,4 +1,4 @@
 # voice-assistant
 
-tech stack: python
-libraries: google
+## tech stack: python
+## libraries: google
